@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2010\Projects\BowlingGame\BowlingGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\BowlingGame\BowlingGame\bin\Debug\BowlingGame.exe
+c:\users\administrator\documents\visual studio 2010\Projects\BowlingGame\BowlingGame\bin\Debug\BowlingGame.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\BowlingGame\BowlingGame\obj\x86\Debug\BowlingGame.exe
+c:\users\administrator\documents\visual studio 2010\Projects\BowlingGame\BowlingGame\obj\x86\Debug\BowlingGame.pdb
